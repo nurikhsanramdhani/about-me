@@ -1,2 +1,2 @@
-# about-me
-Repository untuk mengisikan tentang diri saya
+# About-Me
+Gapenting sebenernya, tpi klo kalian mau tau ya baca aja
